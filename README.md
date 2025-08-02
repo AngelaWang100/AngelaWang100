@@ -1,4 +1,10 @@
-![AngelaWang](https://github.com/user-attachments/assets/9e908790-778a-4df6-b085-0e30a35eec7d)
+![AngelaWang](https://github.com/user-attachments/assets/381d9a1d-c772-436b-9b9d-1081fb74d1a6)
+
+**Contact Information**
+
+LinkedIn: [www.linkedin.com/in/angelawang100](www.linkedin.com/in/angelawang100)
+
+Email: angelacwang2006@gmail.com
 
 **About Me**
 
@@ -6,10 +12,12 @@ Hi, I'm Angela Wang! I'm a computer science student who loves building systems t
 
 Feel free to reach out — I’m always up for learning something new or collaborating on something meaningful!
 
+**Technical Skills**
 
-**Contact**
+Python (NumPy, pandas, Matplotlib), C, C++, Java, Swift, Rust, JavaScript, React, React Native, Flask, Firebase, Git, VS Code, IntelliJ, Eclipse, Microsoft Office
 
-[Add me on LinkedIn!](www.linkedin.com/in/angelawang100)
+**Projects**
 
-Email: angelacwang2006@gmail.com
+eCornell ML Foundations Labs (Break Through Tech AI)
+
 
