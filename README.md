@@ -6,8 +6,10 @@ Hi, I'm Angela Wang! I'm a computer science student who loves building systems t
 
 Feel free to reach out — I’m always up for learning something new or collaborating on something meaningful!
 
+
 **Contact**
 
-[LinkedIn](www.linkedin.com/in/angelawang100)
+[Add me on LinkedIn!](www.linkedin.com/in/angelawang100)
+
 Email: angelacwang2006@gmail.com
 
