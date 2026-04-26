@@ -1,5 +1,3 @@
-![AngelaWang](https://github.com/user-attachments/assets/381d9a1d-c772-436b-9b9d-1081fb74d1a6)
-
 **Contact Information**
 
 LinkedIn: [www.linkedin.com/in/angelawang100](www.linkedin.com/in/angelawang100)
